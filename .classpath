@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/dark-/Desktop/BD_Complexes/db4o-7.4/lib/ant.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dark-/Desktop/BD_Complexes/db4o-7.4/lib/bloat-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dark-/Desktop/BD_Complexes/db4o-7.4/lib/db4o-7.4.71.12224-bench.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dark-/Desktop/BD_Complexes/db4o-7.4/lib/db4o-7.4.71.12224-db4ounit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dark-/Desktop/BD_Complexes/db4o-7.4/lib/db4o-7.4.71.12224-instrumentation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dark-/Desktop/BD_Complexes/db4o-7.4/lib/db4o-7.4.71.12224-java1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dark-/Desktop/BD_Complexes/db4o-7.4/lib/db4o-7.4.71.12224-java1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dark-/Desktop/BD_Complexes/db4o-7.4/lib/db4o-7.4.71.12224-java5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dark-/Desktop/BD_Complexes/db4o-7.4/lib/db4o-7.4.71.12224-nqopt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dark-/Desktop/BD_Complexes/db4o-7.4/lib/db4o-7.4.71.12224-osgi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dark-/Desktop/BD_Complexes/db4o-7.4/lib/db4o-7.4.71.12224-osgi-test.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dark-/Desktop/BD_Complexes/db4o-7.4/lib/db4o-7.4.71.12224-taj.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dark-/Desktop/BD_Complexes/db4o-7.4/lib/db4o-7.4.71.12224-tools.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
